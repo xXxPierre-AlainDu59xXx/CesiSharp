@@ -1,0 +1,18 @@
+[Date, participants, projets]
+	23/05/2018
+	Antonin Jacob et Gabriel Jouet
+	Cybrepunk
+	
+[On en est où ?]
+	Code pas beau
+	phase initiale
+	pas de monde créé
+	mouvement et tir basique
+	gravité normale
+	animations basse qualité
+	2 armes
+
+[Ce à quoi on pense maintenant]
+	Améliorer les tirs
+	Créer un début de monde
+	Armure et compétences
