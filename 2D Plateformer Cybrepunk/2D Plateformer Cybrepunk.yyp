@@ -63,14 +63,6 @@
             }
         },
         {
-            "Key": "0fdd85f4-f3ae-447e-ae1a-e607090843ab",
-            "Value": {
-                "id": "6c84ccae-0198-4368-8d2d-28ede8935cf2",
-                "resourcePath": "sprites\\spr_Laser\\spr_Laser.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "145e836a-4503-43b4-be4c-9a5de7eb7777",
             "Value": {
                 "id": "7a90ce47-c0e9-4511-9fa6-280a886552ef",
@@ -84,14 +76,6 @@
                 "id": "3b52392e-464c-408d-8812-aa60e3aa4287",
                 "resourcePath": "shaders\\shader_White\\shader_White.yy",
                 "resourceType": "GMShader"
-            }
-        },
-        {
-            "Key": "164f8095-b23b-4ce4-97e5-432261d25f38",
-            "Value": {
-                "id": "9ea68079-3039-49b3-9fc5-b83e38163ed9",
-                "resourcePath": "objects\\obj_Grenade_Launcher\\obj_Grenade_Launcher.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -116,14 +100,6 @@
                 "id": "8dc4ca6b-4e58-4e3f-a852-40b2178f0966",
                 "resourcePath": "scripts\\script_change_direction\\script_change_direction.yy",
                 "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "2997a96f-bb62-44ee-95b2-354f79ab67d0",
-            "Value": {
-                "id": "8a8aade3-60a8-4e4a-9a72-2ba014f8ea6d",
-                "resourcePath": "objects\\obj_RedRiffle\\obj_RedRiffle.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -156,14 +132,6 @@
                 "id": "e3147f60-7839-4c38-9306-2d56d68c72de",
                 "resourcePath": "sprites\\spr_Goods_lift_elevator\\spr_Goods_lift_elevator.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "336b5c83-d643-47e9-be18-bbcc57f5be5b",
-            "Value": {
-                "id": "7731531f-5209-4bb2-8155-5fecb17226f7",
-                "resourcePath": "objects\\obj_Laser\\obj_Laser.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -303,14 +271,6 @@
             }
         },
         {
-            "Key": "6521fa85-de4a-49bc-a78c-07c4a6525c7e",
-            "Value": {
-                "id": "ce0d2623-d30b-46b9-9514-9642e0602186",
-                "resourcePath": "sprites\\spr_Grenade_Launcher\\spr_Grenade_Launcher.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "69246edd-242a-4f28-997c-c89a785b2504",
             "Value": {
                 "id": "8c386b94-ed76-48ad-b612-34be37e17844",
@@ -347,14 +307,6 @@
             "Value": {
                 "id": "e08f2704-5cca-48ca-9345-5dc521fbe3bb",
                 "resourcePath": "objects\\obj_Conveyor\\obj_Conveyor.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "71e9edb4-83b5-4684-84bf-96af5859cff6",
-            "Value": {
-                "id": "bdf0e353-3cda-489b-bb02-a9bd7faf728a",
-                "resourcePath": "objects\\obj_Shotgun\\obj_Shotgun.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -527,14 +479,6 @@
             }
         },
         {
-            "Key": "9fff0111-c41e-47cd-884e-8c47cfec6251",
-            "Value": {
-                "id": "11647dba-849c-4f48-b691-d92e2b3e2b8b",
-                "resourcePath": "objects\\obj_Assault_Riffle\\obj_Assault_Riffle.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "a119cba0-0359-4da7-879b-3222b164eecc",
             "Value": {
                 "id": "f3f032f3-a8ad-4948-bcc8-313dd177be94",
@@ -564,14 +508,6 @@
                 "id": "8ee95ed9-fd74-442e-bd14-9fce63f1b77e",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
-            }
-        },
-        {
-            "Key": "ab783485-d437-4d07-bbfb-65f5658dcdd6",
-            "Value": {
-                "id": "030a9d2f-b898-4cd1-810b-1688ce46f18e",
-                "resourcePath": "objects\\obj_Sniper\\obj_Sniper.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -607,14 +543,6 @@
             }
         },
         {
-            "Key": "af422620-42f6-40fa-81e8-f306b3cbd3ee",
-            "Value": {
-                "id": "19305a74-0a66-4999-966b-88af4ba213f9",
-                "resourcePath": "objects\\obj_Pistol\\obj_Pistol.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "b1024bde-78fb-4a9a-b02e-cc29c867c62e",
             "Value": {
                 "id": "a3579641-38d1-4ac2-b235-4b8ddb9dfa49",
@@ -636,14 +564,6 @@
                 "id": "9f9e2155-fa00-427c-9edc-630cbe316923",
                 "resourcePath": "views\\b2ca7abb-ad01-4e83-ad4a-f04de6b8d540.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "ba0254f4-ea08-4167-8e32-65b05ff16e92",
-            "Value": {
-                "id": "bb5de931-4f41-4479-9723-3344804ad925",
-                "resourcePath": "sprites\\spr_Sas_2\\spr_Sas_2.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -719,14 +639,6 @@
             }
         },
         {
-            "Key": "dae0e49b-13ff-47a0-bc36-bc6e4fc345dd",
-            "Value": {
-                "id": "28ea5de0-e32f-4ddf-b3c0-b36d6c54e6a4",
-                "resourcePath": "rooms\\room2\\room2.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "e3440bc5-ea34-4087-ab4c-8fcb3762ac60",
             "Value": {
                 "id": "cf88ae38-73f5-4b75-889b-60fd466e413d",
@@ -772,14 +684,6 @@
                 "id": "3bc116c9-da56-4110-8288-39340320cd86",
                 "resourcePath": "scripts\\script_get_weapon_id\\script_get_weapon_id.yy",
                 "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "ee038fd0-224e-4731-8ac3-b72f775fb7f8",
-            "Value": {
-                "id": "e2b17472-fbb3-4948-ae70-9330c758645f",
-                "resourcePath": "objects\\obj_Submachine_Gun\\obj_Submachine_Gun.yy",
-                "resourceType": "GMObject"
             }
         },
         {

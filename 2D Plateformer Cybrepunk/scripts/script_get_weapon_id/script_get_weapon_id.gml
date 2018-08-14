@@ -20,6 +20,7 @@ else if (argument0 == 5)
 {
 	gun = obj_Sniper;
 }
+/*
 else if (argument0 == 6)
 {
 	gun = obj_Grenade_Launcher;
@@ -29,7 +30,7 @@ else if (argument0 == 7)
 	gun = obj_Laser;
 }
 
-/*
+
 if (argument0 == 1)    
 {
 	gun = obj_Pistol;

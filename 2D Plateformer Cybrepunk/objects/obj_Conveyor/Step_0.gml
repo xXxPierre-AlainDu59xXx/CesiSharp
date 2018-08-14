@@ -19,7 +19,7 @@ if(place_meeting(x,y - 1,obj_Elyse) && obj_Elyse.collision == 0)
 {
 	if (obj_Elyse.moving = 1)
 	{
-		obj_Elyse.x += moving;
+		obj_Elyse.x += obj_Elyse.moving;
 	}
 	else if(obj_Elyse.moving = 0)
 	{

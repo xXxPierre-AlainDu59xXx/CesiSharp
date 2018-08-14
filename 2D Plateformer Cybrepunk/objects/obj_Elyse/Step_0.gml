@@ -306,9 +306,9 @@ if (instance_exists(obj_Weapon_Ground))
 		{
 			weapons_equipped ++;
 			
-			if (weapons_equipped > 7)
+			if (weapons_equipped > 5)
 			{
-				weapons_equipped = 7;
+				weapons_equipped = 5;
 			}
 			
 			instance_destroy(instance_nearest(x, y, obj_Weapon_Ground));
